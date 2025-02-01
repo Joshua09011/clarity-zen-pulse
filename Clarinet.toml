@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/meditation-session.clar"
 depends_on = []
 
+[contracts.user-profile]
+path = "contracts/user-profile.clar"
+depends_on = []
+
 [contracts.zen-token]
 path = "contracts/zen-token.clar"
 depends_on = []
